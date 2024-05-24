@@ -104,3 +104,42 @@ Hence, Sx \notin (\frac{(-1)(n), \frac{1}{n})$, but this
 leads to a contracition, so Sx = 05.
 
 Therefore $0$ is the only element of
+
+
+
+
+
+
+
+
+
+
+The sum of any 5 consecutive integers is, in fact, evenly divisible by 5!
+
+To show this let's call the first integer: n
+
+Then, the next four integers will be:
+
+n+1, n+2, n+3 and n+4
+
+Adding these five integers together gives:
+
+n+n+1+n+2+n+3+n+4= n+n+n+n+n+1+2+3+4 In+in+in+in+in+1+2+3+4= (1+1+1+1+1)+(1+2+3+4)
+
+5n+10
+5n+(5×2)=
+
+5(n+2)
+
+If we divide this sum of any 5 consecutive integers by 5 we get:
+
+5(n+2)/5-
+
+n+2
+
+Because n was originally defined as an integer n+2 is
+
+also an integer.
+
+Therefore, the sum of any five consecutive integers is evenly divisible by 5 and the result is an integer with no remainder.
+
